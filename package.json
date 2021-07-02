@@ -1,0 +1,12 @@
+{
+    "cypress-cucumber-preprocessor": {
+        "nonGlobalStepDefinitions": true
+    },
+    "devDependencies": {
+        "cypress": "^7.6.0",
+        "cypress-cucumber-preprocessor": "^4.1.2"
+    },
+    "dependencies": {
+        "core-js": "^3.15.2"
+    }
+}
